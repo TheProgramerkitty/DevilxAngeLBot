@@ -7,7 +7,7 @@ from pyrogram.types import InlineKeyboardButton,InlineKeyboardMarkup
 tilte = """
 Sometimes you need to save some data, like text or pictures. With notes, 
 you can save any types of Telegram's data in your chats.
-Also notes perfectly working in PM with Rose.
+Also notes perfectly working in PM with DevilAngel.
 
 
 **Available commands:**
