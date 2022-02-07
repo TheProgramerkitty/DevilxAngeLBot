@@ -141,10 +141,10 @@ start_button = InlineKeyboardMarkup(
         ],
         [
            InlineKeyboardButton(
-                text="🛠 Github", url="https://github.com/szsupunma"
+                text="sᴜᴘᴘᴏʀᴛ", url="https://t.me/DevilAngelSupport"
             ),
             InlineKeyboardButton(
-                text="👨‍💻Developer", url="http://t.me/supunmabot"
+                text="ᴜᴘᴅᴀᴛᴇs", url="https://t.me/DeviLAngeLupdates"
             ),
         ],
         [
