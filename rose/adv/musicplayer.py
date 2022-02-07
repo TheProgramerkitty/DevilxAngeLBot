@@ -35,7 +35,7 @@ Auth users can skip, pause, stop, resume Voice Chats even without Admin Rights.
 - /unauth `[Username or Reply to a Message]` : Remove a user from AUTH LIST of the group.
 - /authusers :  Check AUTH LIST of the group.
 
-[Old Manual Here ](https://t.me/szvcbot)
+
 """
 
 @app.on_callback_query(filters.regex("_adc"))
