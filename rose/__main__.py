@@ -866,7 +866,7 @@ TEXT_PART_3 = """
 **Excellent!** Now the Bot is ready to use!
 All commands can be used with / 
 If you're facing any difficulties in setting up me in your group, 
-so don't hesitate to come in @slbotzone.
+so don't hesitate to come in @DevilAngelSupport.
 We would love to help you.
 """
 
