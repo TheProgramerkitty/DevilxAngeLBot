@@ -136,12 +136,12 @@ start_button = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                text="❓ Commands Menu", callback_data="bot_commands"
+                text="📂 ᴏᴘᴇɴ ᴄᴏᴍᴍᴀɴᴅs ᴍᴇɴᴜ", callback_data="bot_commands"
             ),
         ],
         [
            InlineKeyboardButton(
-                text="sᴜᴘᴘᴏʀᴛ", url="https://t.me/DevilAngelSupport"
+                text="sᴜᴘᴘᴏʀᴛ ", url="https://t.me/DevilAngelSupport"
             ),
             InlineKeyboardButton(
                 text="ᴜᴘᴅᴀᴛᴇs", url="https://t.me/DeviLAngeLupdates"
@@ -149,7 +149,7 @@ start_button = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="➕ Add Me To Your Group ➕",
+                text="➗ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➗",
                 url=f"http://t.me/{BOT_USERNAME}?startgroup=new",
             )
         ],
@@ -234,7 +234,7 @@ started time - `2022 {dater}:{timer} `
                 """
             )
         return await message.reply(
-            "**Heya, @szrosebot here :) PM me if you have any questions how to use me!**", reply_markup=keyboard
+            "**Heya, @DevilXAngelBot here :) PM me if you have any questions how to use me!**", reply_markup=keyboard
         )
     if len(message.text.split()) > 1:
         name = (message.text.split(None, 1)[1]).lower()
@@ -323,41 +323,41 @@ keyboar = InlineKeyboardMarkup(
                 [
                     [
                         InlineKeyboardButton(
-                            text="👮‍♀️Basic Menu", callback_data="basic_menu"
+                            text="👮‍♀️ ʙᴀsɪᴄ ᴍᴇɴᴜ ", callback_data="basic_menu"
                         ),
                         InlineKeyboardButton(
-                            text="👨‍🔧 Advanced Menu", callback_data="adv_menu"
+                            text="👨‍🔧 ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴇɴᴜ", callback_data="adv_menu"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="👨🏻‍💼 Expert ", callback_data="ftools_back"
+                            text="👨🏻‍💼 ᴇxᴘᴇʀᴛ", callback_data="ftools_back"
                         ),
                         InlineKeyboardButton(
-                            text="🕵🏻‍♀️ Inline ", callback_data="_inline"
+                            text="🕵🏻‍♀️ ɪɴʟɪɴᴇ", callback_data="_inline"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="👱‍♂️How to Use Me", callback_data="_how"
+                            text="👱‍♂️ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ", callback_data="_how"
                         ),
                         InlineKeyboardButton(
-                            text="👩‍💻About Me", callback_data="_about"
+                            text="👩‍💻ᴀʙᴏᴜᴛ ᴍᴇ", callback_data="_about"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="News Channel 🗣", url="https://t.me/DeviLAngeLupdates"
+                            text="⚠️ ᴜᴘᴅᴀᴛᴇs", url="https://t.me/DeviLAngeLupdates"
                         ),
                         InlineKeyboardButton(
-                            text="Support Group👥", url="https://t.me/DevilAngelSupport"
+                            text="sᴜᴘᴘᴏʀᴛ ⚠️", url="https://t.me/DevilAngelSupport"
                         ),
                     ],
                     [
-                        InlineKeyboardButton('📖 VC - player - Guides', callback_data="_vc")
+                        InlineKeyboardButton('🔊 ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ', callback_data="_vc")
                     ],
 
-                        [InlineKeyboardButton(text="🔼Collapse", callback_data="bot_commands")],
+                        [InlineKeyboardButton(text="🔻ᴄᴏʟʟᴀᴘsᴇ🔻", callback_data="bot_commands")],
                 ]
             )
 
@@ -384,26 +384,26 @@ async def help_parser(name, keyboard=None):
                 [
                     [
                         InlineKeyboardButton(
-                            text="👮‍♀️Basic Menu", callback_data="basic_menu"
+                            text="ʙᴀsɪᴄ ᴍᴇɴᴜ 💞", callback_data="basic_menu"
                         ),
                         InlineKeyboardButton(
-                            text="👨‍🔧 Advanced Menu", callback_data="adv_menu"
-                        ),
-                    ],
-                    [
-                        InlineKeyboardButton(
-                            text="👨🏻‍💼 Expert ", callback_data="ftools_back"
-                        ),
-                        InlineKeyboardButton(
-                            text="🕵🏻‍♀️ Inline ", callback_data="_inline"
+                            text="ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴇɴᴜ 🥰", callback_data="adv_menu"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="🔽 Expand Menu ", callback_data="expand_"
+                            text="💫 ᴇxᴘᴇʀᴛ", callback_data="ftools_back"
+                        ),
+                        InlineKeyboardButton(
+                            text="🔎 ɪɴʟɪɴᴇ", callback_data="_inline"
+                        ),
+                    ],
+                    [
+                        InlineKeyboardButton(
+                            text="🔻 ᴇxᴘᴀɴᴅ ᴍᴇɴᴜ ", callback_data="expand_"
                         )
                     ],
-                        [InlineKeyboardButton(text="🔙 Back", callback_data="startcq")],
+                        [InlineKeyboardButton(text="🔙 ʙᴀᴄᴋ", callback_data="startcq")],
                 ]
             )
 
@@ -466,7 +466,7 @@ Also you can ask anything in Support Group.
         await query.message.edit(
             text=text,
             reply_markup=InlineKeyboardMarkup(
-                [[InlineKeyboardButton("🔙 back", callback_data="help_back")]]
+                [[InlineKeyboardButton("🔙 ʙᴀᴄᴋ", callback_data="help_back")]]
             ),
             disable_web_page_preview=True,
         )
@@ -531,7 +531,7 @@ async def help_button(client, query):
                 text=text,
                 disable_web_page_preview=True,
                 reply_markup=InlineKeyboardMarkup(
-                    [[InlineKeyboardButton(text="🔙 Back", callback_data="ftools_back")]]
+                    [[InlineKeyboardButton(text="🔙 ʙᴀᴄᴋ", callback_data="ftools_back")]]
                 ),
             )
     elif prev_match:
@@ -578,7 +578,7 @@ async def help_button(client, query):
                 text=text,
                 disable_web_page_preview=True,
                 reply_markup=InlineKeyboardMarkup(
-                    [[InlineKeyboardButton(text="🔙 Back", callback_data="advt_back")]]
+                    [[InlineKeyboardButton(text="🔙 ʙᴀᴄᴋ", callback_data="advt_back")]]
                 ),
             )
     elif prev_match:
@@ -625,7 +625,7 @@ async def help_button(client, query):
                 text=text,
                 disable_web_page_preview=True,
                 reply_markup=InlineKeyboardMarkup(
-                    [[InlineKeyboardButton(text="🔙 Back", callback_data="basict_back")]]
+                    [[InlineKeyboardButton(text="🔙 ʙᴀᴄᴋ", callback_data="basict_back")]]
                 ),
             )
     elif prev_match:
