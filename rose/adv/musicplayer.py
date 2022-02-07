@@ -129,8 +129,8 @@ We was added Lag free Music 🎶
 ˚₊· ͟͟͞͞➳❥🇦𝖙𝖙𝖎𝖙𝖚𝖉𝖊 🇰𝖎𝖓𝖌࿐
 - @Attitude_king_vj
 
-👨‍💻 - Please Don't add all assistant to your group use 1
-And also we remove assistant monthly in all groups.
+👨‍💻 - Please Don't Spam in Assistant Pm
+we remove assistant monthly in all groups.
 """
 @app.on_callback_query(filters.regex("_aci"))
 async def commands_callbacc(_, CallbackQuery):
