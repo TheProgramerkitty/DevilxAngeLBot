@@ -8,9 +8,9 @@ supunma = """
 ✘ Advanced commands will help you to secure your groups 
 from attackers and do many stuff in group from a single bot
 You can choose an option below, by clicking a button.
-Also you can ask anything in [Support Group](https://t.me/slbotzone).
+Also you can ask anything in [Support Group](https://telegra.ph/file/fce9d196e2ba4d6c2de3a.jpg).
 
-Click buttons to get help [?](https://t.me/szteambots/872)
+Click buttons to get help ?
 """
 
 mbuttons = InlineKeyboardMarkup(
