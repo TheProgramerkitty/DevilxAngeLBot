@@ -181,7 +181,7 @@ upun = """
 
 **Original work is done by **[@MrItzme](https://telegra.ph/Ghostist-Logo-Maker-API-01-30) | [Single Developers </>](https://t.me/SingleDevelopers)
 """
-photo = "https://telegra.ph/file/760c7393ee86fcba9e00e.jpg"
+photo = "https://telegra.ph/file/fce9d196e2ba4d6c2de3a.jpg"
 
 @app.on_callback_query(filters.regex("_logo"))
 async def commands_callbacc(_, CallbackQuery):
