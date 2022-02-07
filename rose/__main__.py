@@ -675,7 +675,7 @@ BTTON_1 = InlineKeyboardMarkup(
         InlineKeyboardButton('Formatting ', callback_data='for_commands')
         ],
         [
-        InlineKeyboardButton('Bug Report', url="https://t.me/slbotzone")
+        InlineKeyboardButton('Bug Report', url="https://t.me/DevilAngelSupport")
         ],
         [InlineKeyboardButton('🔙 Back', callback_data='bot_commands')
         ]]
@@ -974,7 +974,7 @@ To do that, follow this easy steps:
 ▫️ Click Manage Group
 ▫️ Goto Administrators 
 ▫️ Press on Administrator
-▫️ Add @szrosebot as Admin
+▫️ Add @DeviLxAngeLBot as Admin
 ▫️ Give full permissions 
 ▫️ Confirm
 """
