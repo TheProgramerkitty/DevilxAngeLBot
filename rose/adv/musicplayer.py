@@ -27,7 +27,7 @@ supun = """
 
 ✘ **Authorised Users List**
 
-Rose has a additional feature for non-admin users who want to use admin commands.
+Devil Angel has a additional feature for non-admin users who want to use admin commands.
 Auth users can skip, pause, stop, resume Voice Chats even without Admin Rights.
 
 
@@ -85,12 +85,12 @@ async def commands_callbacc(_, CallbackQuery):
 
 supunmas = """
 **Note:**
-Rose Music Bot works on a single merged 
+Devil Angel Music Bot works on a single merged 
 commands for Music and Video
 
 **Youtube,Telegram Files & query**:
 
-- /play `[Music Name](Rose will search on Youtube)
+- /play `[Music Name](Devil will search on Youtube)
 - /play `[Youtube Track link or Playlist]`
 - /play `[Video, Live, M3U8 Links]`
 - /play `[Reply to a Audio or Video File]` : Stream Video or Music on Voice Chat by selecting inline Buttons you get
