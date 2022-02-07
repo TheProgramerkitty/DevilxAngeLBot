@@ -49,9 +49,9 @@ async def commands_callbacc(_, CallbackQuery):
     await CallbackQuery.message.delete()
 
 supunm = """
-- /vcsettings :  Get Settings dashboard of a group. 
+- /settings :  Get Settings dashboard of a group. 
     You can manage Auth Users Mode. Commands Mode from here.
-- /vcspeedtest : get speed.
+- /speedtest : get speed.
 
 """
 
@@ -115,19 +115,19 @@ async def commands_callbacc(_, CallbackQuery):
     await CallbackQuery.message.delete()    
 
 supunmasc = """
-We was added **Multi Assistant Mode** for High Number of Chats.
+We was added Lag free Music 🎶
 
 👮‍♀️ **OFFICIAL Assistants**:-
 
-• Assistant 1️⃣ :- @vcpalyassistant
-• Assistant 2️⃣ :- @vcpalyassistant1
-• Assistant 3️⃣ :- @vcpalyassistant2
-• Assistant 4️⃣ :- @vcpalyassistant3
+• Assistant :- @DevilAngelAssistant
+
+
+
 
 **Credits** - 
 
--「🇮🇳」°『||ᴀᴅ•✘•ᴍᴜꜱɪᴄ||』
-- @not_just_Nikhil
+˚₊· ͟͟͞͞➳❥🇦𝖙𝖙𝖎𝖙𝖚𝖉𝖊 🇰𝖎𝖓𝖌࿐
+- @Attitude_king_vj
 
 👨‍💻 - Please Don't add all assistant to your group use 1
 And also we remove assistant monthly in all groups.
@@ -180,21 +180,21 @@ asuttons = InlineKeyboardMarkup(
 )
 
 upun = """
-**A Telegram Music+Video Streaming bot with some useful features.**
+**A Telegram Music Streaming bot with some useful features.**
 
-**Features**[?](https://notreallyshikhar.gitbook.io/Rosemusicbot/about/getting-started/features)
+**Features**?
 
-- Zero lagtime Video + Audio player.
+- Zero lagtime Audio player.
 - Working Queue and Interactive Queue Checker.
 - Youtube Downloader Bar.
 - Auth Users Function .
-- Download Audios/Videos from Youtube.
-- Multi Assistant Mode for High Number of Chats.
-- Interactive UI, Fonts and Thumbnails.
+- Download Audios from Youtube.
+- disadvantage:-
+- Thumbnail not support.
 
-**Original work is done by** : @OfficialYukki
+**work is done by** : @Attitude_King_vj
 
-Click on the buttons for more information.| [credits](https://github.com/NotReallyShikhar/RoseMusicBot)
+Click on the buttons for more information.| [credits](https://t.me/tgcalls_Music_update)
 """
 @app.on_callback_query(filters.regex("_vc"))
 async def commands_callbacc(_, CallbackQuery):
