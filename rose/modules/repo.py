@@ -28,7 +28,7 @@ from rose.core.decorators.errors import capture_err
 from rose.utils.http import get
 
 
-@app.on_message(filters.command("repo") & ~filters.edited)
+@app.on_message(filters.command("repooi") & ~filters.edited)
 @capture_err
 async def repo(_, message):
     users = await get(
@@ -42,7 +42,7 @@ async def repo(_, message):
         )
         count += 1
 
-    text = f"""[Github](https://github.com/szsupunma/sz-rose-bot) | [Group](t.me/slbotzonePatheticProgrammers)
+    text = f"""[Dev](t.me/Attitude_king_vj) | [Group](https://t.me/DevilAngelSupport)
 ```----------------
 | Contributors |
 ----------------```
