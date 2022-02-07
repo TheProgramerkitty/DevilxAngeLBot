@@ -157,7 +157,7 @@ start_button = InlineKeyboardMarkup(
 )
 
 start_text = f"""
-Hello There ! I'm **Rosebot** ✨ 
+Hello There ! I'm **Devil Angel** [✨](https://telegra.ph/file/fce9d196e2ba4d6c2de3a.jpg)
 An  advanced telegram Group management Bot For help 
 You Protect Your Groups & Suit For All Your Needs.
 """
@@ -176,12 +176,12 @@ keyboard = InlineKeyboardMarkup(
 
 basichelp_string = """
 **👥Basic Group Commands**
-✘ Base commands are the basic tools of Rose Bot which help you to manage 
+✘ Base commands are the basic tools of Devil Angel Bot which help you to manage 
 your group easily and effectivelyYou can choose 
 an option below, by clicking a button.
-Also you can ask anything in [Support Group](https://t.me/slbotzone).
+Also you can ask anything in [Support Group](https://t.me/DevilAngelSupport).
 
->> [Shorter the Way, Faster you Go! 🏃‍♂️](https://t.me/szteambots/872)
+>> Shorter the Way, Faster you Go! 🏃‍♂️
 """
 
 funtools_string = """
@@ -189,9 +189,9 @@ funtools_string = """
 
 ✘ Extra tools which are available in bot and tools made for fun are here
 You can choose an option below, by clicking a button.
-Also you can ask anything in [Support Group](https://t.me/slbotzone).
+Also you can ask anything in [Support Group](https://t.me/DevilAngelSupport).
 
-Click buttons to get help [?](https://t.me/szteambots/872)
+Click buttons to get help ?
 """
 
 advtools_string = """
@@ -200,9 +200,9 @@ advtools_string = """
 ✘ Advanced commands will help you to secure your groups 
 from attackers and do many stuff in group from a single bot
 You can choose an option below, by clicking a button.
-Also you can ask anything in [Support Group](https://t.me/slbotzone).
+Also you can ask anything in [Support Group](https://t.me/DevilAngelSupport).
 
->> [Shorter the Way, Faster you Go! 🏃‍♂️](https://t.me/szteambots/872)
+>> Shorter the Way, Faster you Go! 🏃‍♂️
 """
 
 @app.on_message(filters.command(["start", f"@{BOT_USERNAME}"]))
@@ -347,10 +347,10 @@ keyboar = InlineKeyboardMarkup(
                     ],
                     [
                         InlineKeyboardButton(
-                            text="News Channel 🗣", url="https://t.me/szteambots"
+                            text="News Channel 🗣", url="https://t.me/DeviLAngeLupdates"
                         ),
                         InlineKeyboardButton(
-                            text="Support Group👥", url="https://t.me/slbotzone"
+                            text="Support Group👥", url="https://t.me/DevilAngelSupport"
                         ),
                     ],
                     [
@@ -664,7 +664,7 @@ UTTON_10 = InlineKeyboardMarkup(
 
 TEXT_PART_1 = """
 Here is the help for the **Formatting** 
-Rose supports a large number of formatting options 
+DeviLAngel supports a large number of formatting options 
 to make your messages more expressive. Take a look 
 by clicking the buttons below!
 """
@@ -784,7 +784,7 @@ Make things a little more personal by changing welcome messages, or changing not
 %%%
 how are you`
 This will randomly choose between sending the first message, "hello", or the second message, "how are you".
-Use this to make Rose feel a bit more customised! (only works in filters/notes)
+Use this to make Devil feel a bit more customised! (only works in filters/notes)
 **Example welcome message:**
 - Every time a new user joins, they'll be presented with one of the three messages shown here.
 -> /filter "hey"
@@ -818,7 +818,7 @@ async def commands_callbacc(_, CallbackQuery):
     modules_count = len(ALL_MODULES)
 
     TEXT_PART = f"""
-@szrosebot ** is one of the fastest and most feature filled group manager**.   
+@DeviLxAngeLBot ** is one of the fastest and most feature filled group manager**.   
  
  - **Latest Update Time** : `2022 {dater}:{timer}`
  - **Modules Loaded **:  `{modules_count}`
@@ -828,7 +828,7 @@ async def commands_callbacc(_, CallbackQuery):
  - ** chats.** : `{served_chats}`
 
  
- **Why Rose**:
+ **Why Devil**:
  
 - **Simple**: `Easy usage and compaitble with many bot commands.`
 - **Featured**: `Many features which other group management bots don't have.`
@@ -843,8 +843,8 @@ async def commands_callbacc(_, CallbackQuery):
     await CallbackQuery.message.delete()
 
 TEXT_PART_1 = """
-**Welcome to the Rose Configuration**
-The first thing to do is to add Rose Bot ✨ to your group! 
+**Welcome to the DevilAngel Configuration**
+The first thing to do is to add Devil Bot ✨ to your group! 
 For doing that, press the under button and select your group,
 then press Done to continue the tutorial..
 """
@@ -873,7 +873,7 @@ We would love to help you.
 
 BUTTON_1 = InlineKeyboardMarkup(
         [[        
-        InlineKeyboardButton('Add Rose to Chat ! 🎉', url='http://t.me/szrosebot?startgroup=new')
+        InlineKeyboardButton('Add Devil to Chat ! 🎉', url='http://t.me/szrosebot?startgroup=new')
         ],
         [InlineKeyboardButton('Done ✅', callback_data="next_1")
         ]]
@@ -914,13 +914,13 @@ async def popat(_, CallbackQuery):
 
 
 text = """
-@szrosebot is one of the fastest and most feature filled group manager.
+@DevilXAngelBot is one of the fastest and most feature filled group manager.
 
-Rose ✨ is developed and actively maintained by @szteambots!
+Rose ✨ is developed and actively maintained by @Attitude_king_vj!
 
-Rose has been online since 2021/8/10 and have many [groups and users.](https://t.me/szteambots/890)
+Devil has been online since 2021/8/10 and have many [groups and users.](https://t.me/DeviLAngeLupdates)
 
-**Why Rose:**
+**Why Devil:**
 - **Simple**: Easy usage and compaitble with many bot commands.
 - **Featured**: Many features which other group management bots don't have.
 - **Fast**: Pyrogram base bot and use mongo as database.
@@ -983,14 +983,14 @@ TEXT_PART_3 = """
 **Excellent!** Now the Bot is ready to use!
 All commands can be used with / 
 If you're facing any difficulties in setting up me in your group, 
-so don't hesitate to come in @slbotzone.
+so don't hesitate to come in @DevilAngelSupport.
 We would love to help you.
 """
 
 
 BUTON_1 = InlineKeyboardMarkup(
         [[        
-        InlineKeyboardButton('Add Rose to Chat ! 🎉', url='http://t.me/szrosebot?startgroup=new')
+        InlineKeyboardButton('Add Devil to Chat ! 🎉', url='http://t.me/szrosebot?startgroup=new')
         ],
         [InlineKeyboardButton('Done ✅', callback_data="next_100")
         ]]
@@ -1076,7 +1076,7 @@ LOGGER.info("""
 ┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
 └───────────────────────────────────────────────┘ """)
 LOGGER.info(f"Version: stable")
-LOGGER.info(f"Owner: @supunma")
+LOGGER.info(f"Owner: @Attitude_king_vj")
 
 if __name__ == "__main__":
     uvloop.install()
