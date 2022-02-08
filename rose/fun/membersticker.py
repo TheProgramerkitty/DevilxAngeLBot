@@ -1,4 +1,4 @@
-__MODULE__ = "Member Sticker"
+__MODULE__ = "ᴍᴇᴍʙᴇʀ sᴛɪᴄᴋᴇʀ"
 __HELP__ = """
 Automatically Thank Members of a Group With sticker 
 
