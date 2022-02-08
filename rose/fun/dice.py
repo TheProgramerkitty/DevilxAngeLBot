@@ -1,5 +1,5 @@
 
-__MODULE__ = "Dice"
+__MODULE__ = "ᴅɪᴄᴇ"
 __HELP__ = """ 
 × /dice - some fun module here
 """
