@@ -39,7 +39,7 @@ abuttons = InlineKeyboardMarkup(
         [
             InlineKeyboardButton
                 (
-                    "🔙Back", callback_data="_Greetings"
+                    "🔻ʙᴀᴄᴋ", callback_data="_Greetings"
                 )
         ]
     ]
@@ -47,13 +47,13 @@ abuttons = InlineKeyboardMarkup(
 
 fbuttons = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Markdown  Formatting', callback_data="_mdown"),
-        InlineKeyboardButton('Fillings', callback_data='_fillings')
+        InlineKeyboardButton('ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ', callback_data="_mdown"),
+        InlineKeyboardButton('ꜰɪʟʟɪɴɢs', callback_data='_fillings')
         ],
         [
-        InlineKeyboardButton('Random Content', callback_data="_random")
+        InlineKeyboardButton('ʀᴀɴᴅᴏᴍ ᴄᴏɴᴛᴇɴᴛ', callback_data="_random")
         ],
-        [InlineKeyboardButton('🔙 Back', callback_data='basic_menu')
+        [InlineKeyboardButton('🔻ʙᴀᴄᴋ', callback_data='basic_menu')
         ]]
   
 )
