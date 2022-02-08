@@ -1,6 +1,6 @@
 
         
-__MODULE__ = "Info"
+__MODULE__ = "ɪɴꜰᴏ"
 __HELP__ = """
    
 × /info - get user info
