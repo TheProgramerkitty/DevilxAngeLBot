@@ -22,7 +22,7 @@ async def arq_stats(_, message):
     text = section("A.R.Q", body)
     await message.reply_text(text)
     
-__MODULE__ = "Arq"
+__MODULE__ = "ᴀʀǫ"
 __HELP__ = """ 
 × /arq - Gathers arq information (globally)
 """
