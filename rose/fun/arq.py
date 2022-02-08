@@ -1,4 +1,4 @@
-__MODULE__ = "Arq"
+__MODULE__ = "ᴀʀǫ"
 __HELP__ = """ 
 × /arq - Gathers arq information (globally)
 """
