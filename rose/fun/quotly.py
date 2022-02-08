@@ -1,4 +1,4 @@
-__MODULE__ = "Quote"
+__MODULE__ = "ǫᴜᴏᴛʟʏ"
 __HELP__ = """   
 × /q - create quote
 """
