@@ -14,7 +14,7 @@ async def catfacts(client, message):
     Sed = "".join("<code>" + match.get_text() + "</code>\n\n" for match in result)
     return await message.reply(Sed,parse_mode="html")
 
-__MODULE__ = "Cricket Score"
+__MODULE__ = "ᴄʀɪᴄᴋᴇᴛ"
 __HELP__ = """
 MATCH INFO     
 × /cs - Gathers match information (globally)
