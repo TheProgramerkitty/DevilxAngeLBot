@@ -8,7 +8,7 @@ supunma = """
 ✘ Advanced commands will help you to secure your groups 
 from attackers and do many stuff in group from a single bot
 You can choose an option below, by clicking a button.
-Also you can ask anything in [Support Group](https://telegra.ph/file/fce9d196e2ba4d6c2de3a.jpg).
+Also you can ask anything in [Support Group](https://t.me/DevilAngelSupport).
 
 Click buttons to get help ?
 """
@@ -17,27 +17,27 @@ mbuttons = InlineKeyboardMarkup(
         [[
             InlineKeyboardButton
                 (
-                    "CAPTCHA", callback_data="_cap"
+                    "ᴄᴀᴘᴛᴄʜᴀ 🧠", callback_data="_cap"
                 ),            
             InlineKeyboardButton
                 (
-                    "Logo-Tools", callback_data="_logo"
+                    "ʟᴏɢᴏ ᴛᴏᴏʟs 🧰", callback_data="_logo"
                 )
         ],
         [
             InlineKeyboardButton
                 (
-                    "VC-Player", callback_data="_vc"
+                    "🔊 ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ", callback_data="_vc"
                 ),            
             InlineKeyboardButton
                 (
-                    "Telegram", callback_data="_telegram"
+                    "sᴛʀɪɴɢ ɢᴇɴ💈", callback_data="_telegram"
                 ),  
         ],       
         [
             InlineKeyboardButton
                 (
-                    "🔙Back", callback_data="bot_commands"
+                    "🔙 ʙᴀᴄᴋ", callback_data="bot_commands"
                 )
         ]
     ]
