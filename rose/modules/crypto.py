@@ -42,7 +42,7 @@ async def crypto(_, message):
     )
     await m.edit(text, reply_markup=btn)
 
-__MODULE__ = "crypto"
+__MODULE__ = "ᴄʀʏᴘᴛᴏ"
 __HELP__ = """ 
 × /crypto `[currency]`
 """
