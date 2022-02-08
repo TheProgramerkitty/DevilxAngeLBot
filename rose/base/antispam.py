@@ -31,7 +31,7 @@ aabuttons = InlineKeyboardMarkup(
         [
             InlineKeyboardButton
                 (
-                    "🔙Back", callback_data="basic_menu"
+                    "🔻ʙᴀᴄᴋ", callback_data="basic_menu"
                 )
         ]
     ]
