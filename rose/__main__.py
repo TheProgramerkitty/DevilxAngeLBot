@@ -157,9 +157,9 @@ start_button = InlineKeyboardMarkup(
 )
 
 start_text = f"""
-Hello There ! I'm **Devil Angel** [✨](https://telegra.ph/file/fce9d196e2ba4d6c2de3a.jpg)
-An  advanced telegram Group management Bot For help 
-You Protect Your Groups & Suit For All Your Needs.
+ʜᴇʟʟᴏ ᴛʜᴇʀᴇ ! ɪ'ᴍ ᴅᴇᴠɪʟ ᴀɴɢᴇʟ ✨
+ᴀɴ  ᴀᴅᴠᴀɴᴄᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ꜰᴏʀ ʜᴇʟᴘ 
+ʏᴏᴜ ᴘʀᴏᴛᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘs & sᴜɪᴛ ꜰᴏʀ ᴀʟʟ ʏᴏᴜʀ ɴᴇᴇᴅs,ꜰᴇᴇʟ ꜰʀᴇᴇ ᴛᴏ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ💕.
 """
 
 keyboard = InlineKeyboardMarkup(
