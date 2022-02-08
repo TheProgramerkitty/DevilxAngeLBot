@@ -1,5 +1,5 @@
 
-__MODULE__ = "Pdf"
+__MODULE__ = "ᴘᴅꜰ"
 __HELP__ = """
 × /pdf - image to pdf tools here
 """
