@@ -9,7 +9,7 @@ from rose.utils.http import get
 from rose.utils.json_prettify import json_prettify
 from rose.utils.pastebin import paste
 
-__MODULE__ = "Misc"
+__MODULE__ = "ᴍɪsᴄ"
 __HELP__ = """
 × /asq
     Ask a question
