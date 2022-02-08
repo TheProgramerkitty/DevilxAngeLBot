@@ -1,4 +1,4 @@
-__MODULE__ = "couple"
+__MODULE__ = "ᴄᴏᴜᴘʟᴇ"
 __HELP__ = """
  
 It's just a fun module for having little fun. 
