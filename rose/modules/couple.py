@@ -77,7 +77,7 @@ __New couple of the day may be chosen at 12AM {tomorrow}__"""
         print(e)
         await message.reply_text(e)
         
-__MODULE__ = "couple"
+__MODULE__ = "ᴄᴏᴜᴘʟᴇ"
 __HELP__ = """
  
 It's just a fun module for having little fun. 
