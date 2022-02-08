@@ -106,7 +106,7 @@ async def quotly_func(client, message: Message):
         )
         e = format_exc()
         print(e)
-__MODULE__ = "Quote"
+__MODULE__ = "ǫᴜᴏᴛʟʏ"
 __HELP__ = """   
 × /q - create quote
 """
