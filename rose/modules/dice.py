@@ -18,7 +18,7 @@ async def throw_dice(client, message: Message):
     while m.dice.value != 6:
         await m.delete()
         m = await client.send_dice(c, "🎲")
-__MODULE__ = "Dice"
+__MODULE__ = "ᴅɪᴄᴇ"
 __HELP__ = """ 
 × /dice - some fun module here
 """
