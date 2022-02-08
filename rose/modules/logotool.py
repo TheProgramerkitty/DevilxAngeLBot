@@ -198,7 +198,7 @@ __HELP__ = """
 ×  /wall [TEXT] : search wallpapers
 ×  /slogo [TEXT] : New Beautiful trending logo
 
-[More Info Click Here](https://t.me/szteambots/875)
+[More Info Click Here](https://t.me/DeviLAngeLupdates)
 
 Logo Maker is Powered by @SingleDevelopers & @MrItzme
  """
