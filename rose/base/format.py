@@ -5,7 +5,7 @@ from pyrogram.types import InlineKeyboardButton,InlineKeyboardMarkup
 text = """
 **Formatting**
 
-Rose supports a large number of formatting 
+DevilAngel supports a large number of formatting 
 options to make your messages more expressive. Take a look!
 """
 
@@ -23,13 +23,13 @@ async def commands_callbacc(_, CallbackQuery):
 
 fbuttons = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Markdown  Formatting', callback_data="_mdown"),
-        InlineKeyboardButton('Fillings', callback_data='_fillings')
+        InlineKeyboardButton('ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ', callback_data="_mdown"),
+        InlineKeyboardButton('ꜰɪʟʟɪɴɢs', callback_data='_fillings')
         ],
         [
-        InlineKeyboardButton('Random Content', callback_data="_random")
+        InlineKeyboardButton('ʀᴀɴᴅᴏᴍ ᴄᴏɴᴛᴇɴᴛ', callback_data="_random")
         ],
-        [InlineKeyboardButton('🔙 Back', callback_data='basic_menu')
+        [InlineKeyboardButton('🔻ʙᴀᴄᴋ', callback_data='basic_menu')
         ]]
   
 )
@@ -128,7 +128,7 @@ hello
 how are you
 ```
 This will randomly choose between sending the first message, "hello", or the second message, "how are you".
- Use this to make Rose feel a bit more customised! (only works in notes/filters/greetings)
+ Use this to make DevilAngel feel a bit more customised! (only works in notes/filters/greetings)
 
 **Example welcome message::**
 - Every time a new user joins, they'll be presented with one of the three messages shown here.
