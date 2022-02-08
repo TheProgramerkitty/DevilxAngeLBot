@@ -410,11 +410,11 @@ async def help_parser(name, keyboard=None):
 
     return (
         """
-**Welcome to help menu**
+✪**Welcome To Help Menu**[✪](https://telegra.ph/file/645814bb26b8e893b46e8.jpg)
 
 I'm a group management bot with some useful features.
 You can choose an option below, by clicking a button.
-Also you can ask anything in Support Group.
+Also you can ask anything in\n Support Group: @DevilAngelSupport.
 """.format(
             first_name=name,
             bot_name=BOT_NAME,
