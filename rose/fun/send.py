@@ -19,7 +19,7 @@ async def send(_, message):
         await app.send_message(chat_id, text=message.text.split(None, 1)[1])
 
 
-__MODULE__ = "send"
+__MODULE__ = "sᴇɴᴅ"
 __HELP__ = """
 
 Commands:
