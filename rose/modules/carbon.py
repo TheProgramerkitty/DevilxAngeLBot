@@ -22,7 +22,7 @@ async def carbon_func(_, message):
     await m.delete()
     carbon.close()
 
-__MODULE__ = "carbon"
+__MODULE__ = "ᴄᴀʀʙᴏɴ"
 __HELP__ = """
 × /carbon : make carbon of any text
  """
