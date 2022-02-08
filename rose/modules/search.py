@@ -152,7 +152,7 @@ async def google(_, message):
     app_details += (
             "\n<code>Features:</code> <a href='" + app_link + "'>View in Play Store</a>"
         )
-    app_details += "\n\n🔰 @szrosebot 🔰"
+    app_details += "\n\n🔰 @DeviLxAngeLBot 🔰"
     await message.reply_photo(
                         photo = app_link,
                         caption = app_details, 
@@ -161,7 +161,7 @@ async def google(_, message):
 
 
 
-__MODULE__ = "search"
+__MODULE__ = "sᴇᴀʀᴄʜ"
 __HELP__ = """
 × /duck [text] - To Get Search Link In DuckDuckGo
 × /google [text]- To Search In Google
