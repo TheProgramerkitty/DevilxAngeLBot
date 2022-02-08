@@ -161,7 +161,7 @@ async def send(_, message):
         
   
 
-__MODULE__ = "ᴇxᴛʀᴀ"
+__MODULE__ = "Extra"
 __HELP__ = """
 × /couple 
         To Choose Couple Of The Day
