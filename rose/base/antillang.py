@@ -170,7 +170,7 @@ asuttons = InlineKeyboardMarkup(
         [
             InlineKeyboardButton
                 (
-                    "🔙Back", callback_data="basic_menu"
+                    "🔻ʙᴀᴄᴋ", callback_data="basic_menu"
                 )
         ]
     ]
@@ -192,7 +192,7 @@ abuttons = InlineKeyboardMarkup(
         [
             InlineKeyboardButton
                 (
-                    "🔙Back", callback_data="_antilangs"
+                    "🔻ʙᴀᴄᴋ", callback_data="_antilangs"
                 )
         ]
     ]
