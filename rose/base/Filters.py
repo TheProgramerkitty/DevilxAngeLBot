@@ -44,7 +44,7 @@ Rose Can filter content of a given channel automatically
     - Music
 **Setting up**
 
-1) Add @szrosebot to your channel
+1) Add @DevilXAngelBot to your channel
 2) Make bot admin with full permissions
 2) Go back to your group
 
@@ -142,27 +142,27 @@ asuttons = InlineKeyboardMarkup(
         [[
             InlineKeyboardButton
                 (
-                    "Basic Filters", callback_data="_bfilters"
+                    "ʙᴀsɪᴄ ꜰɪʟᴛᴇʀs", callback_data="_bfilters"
                 ),            
             InlineKeyboardButton
                 (
-                    "Text Filters", callback_data="_tfilters"
+                    "ᴛᴇxᴛ ꜰɪʟᴛᴇʀs", callback_data="_tfilters"
                 ) 
         ],
         [
             InlineKeyboardButton
                 (
-                    "Autofilters", callback_data="_afilters"
+                    "ᴀᴜᴛᴏꜰɪʟᴛᴇʀs", callback_data="_afilters"
                 ),            
             InlineKeyboardButton
                 (
-                    "Random Filters", callback_data="_rfilters"
+                    "ʀᴀɴᴅᴏᴍ ꜰɪʟᴛᴇʀs", callback_data="_rfilters"
                 )  
         ],       
         [
             InlineKeyboardButton
                 (
-                    "🔙Back", callback_data="basic_menu"
+                    "🔻ʙᴀᴄᴋ", callback_data="basic_menu"
                 )
         ]
     ]
@@ -184,7 +184,7 @@ abuttons = InlineKeyboardMarkup(
         [
             InlineKeyboardButton
                 (
-                    "🔙Back", callback_data="_filters"
+                    "🔻ʙᴀᴄᴋ", callback_data="_filters"
                 )
         ]
     ]
@@ -192,13 +192,13 @@ abuttons = InlineKeyboardMarkup(
 
 fbuttons = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Markdown  Formatting', callback_data="_mdown"),
-        InlineKeyboardButton('Fillings', callback_data='_fillings')
+        InlineKeyboardButton('ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ', callback_data="_mdown"),
+        InlineKeyboardButton('ꜰɪʟʟɪɴɢs', callback_data='_fillings')
         ],
         [
-        InlineKeyboardButton('Random Content', callback_data="_random")
+        InlineKeyboardButton('ʀᴀɴᴅᴏᴍ ᴄᴏɴᴛᴇɴᴛ', callback_data="_random")
         ],
-        [InlineKeyboardButton('🔙 Back', callback_data='basic_menu')
+        [InlineKeyboardButton('🔻ʙᴀᴄᴋ🔻', callback_data='basic_menu')
         ]]
   
 )
