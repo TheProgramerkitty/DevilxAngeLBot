@@ -17,7 +17,7 @@ from rose.utils.files import (get_document_from_file_id,
 from rose.utils.stickerset import (add_sticker_to_set, create_sticker,
                                   create_sticker_set, get_sticker_set_by_name)
 
-__MODULE__ = "Stickers"
+__MODULE__ = "sᴛɪᴄᴋᴇʀs"
 __HELP__ = """
 Stickers are the best way to show emotion.
 
