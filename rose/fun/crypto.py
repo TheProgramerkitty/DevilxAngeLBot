@@ -1,4 +1,4 @@
-__MODULE__ = "crypto"
+__MODULE__ = "ᴄʀʏᴘᴛᴏ"
 __HELP__ = """ 
 × /crypto `[currency]`
 """
