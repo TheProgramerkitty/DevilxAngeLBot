@@ -16,77 +16,77 @@ mbuttons = InlineKeyboardMarkup(
         [[
             InlineKeyboardButton
                 (
-                    "Admin", callback_data="_admin"
+                    "ᴀᴅᴍɪɴ", callback_data="_admin"
                 ),            
             InlineKeyboardButton
                 (
-                    "Anti-Channel", callback_data="_antichannel"
+                    "ᴀɴᴛɪ-ᴄʜᴀɴɴᴇʟ", callback_data="_antichannel"
                 ),
             InlineKeyboardButton
                 (
-                    "Anti-Langs", callback_data="_antilangs"
+                    "ᴀɴᴛɪ-ʟᴀɴɢs", callback_data="_antilangs"
                 )   
         ],
         [
             InlineKeyboardButton
                 (
-                    "Anti-service", callback_data="_antiservice"
+                    "ᴀɴᴛɪ-sᴇʀᴠɪᴄᴇ", callback_data="_antiservice"
                 ),            
             InlineKeyboardButton
                 (
-                    "Disabling", callback_data="_disabling"
+                    "ᴅɪsᴀʙʟɪɴɢ", callback_data="_disabling"
                 ),
             InlineKeyboardButton
                 (
-                    "Filters", callback_data="_filters"
+                    "ꜰɪʟᴛᴇʀs", callback_data="_filters"
                 )   
         ],       
         [
             InlineKeyboardButton
                 (
-                    "Flood", callback_data="_flood"
+                    "ꜰʟᴏᴏᴅ", callback_data="_flood"
                 ),            
             InlineKeyboardButton
                 (
-                    "Greetings", callback_data="_Greetings"
+                    "ɢʀᴇᴇᴛɪɴɢs", callback_data="_Greetings"
                 ),
             InlineKeyboardButton
                 (
-                    "Url-lock", callback_data="_groups"
+                    "ᴜʀʟ-ʟᴏᴄᴋ", callback_data="_groups"
                 )   
         ],
         [
             InlineKeyboardButton
                 (
-                    "Locks", callback_data="_locks"
+                    "ʟᴏᴄᴋs", callback_data="_locks"
                 ),            
             InlineKeyboardButton
                 (
-                    "Notes", callback_data="_notes"
+                    "ɴᴏᴛᴇs", callback_data="_notes"
                 ),
             InlineKeyboardButton
                 (
-                    "Porn-Detect ", callback_data="_porn"
+                    "ᴘᴏʀɴ-ᴅᴇᴛᴇᴄᴛ", callback_data="_porn"
                 )   
         ],
         [
             InlineKeyboardButton
                 (
-                    "Report", callback_data="_report"
+                    "ʀᴇᴘᴏʀᴛ", callback_data="_report"
                 ),            
             InlineKeyboardButton
                 (
-                    "Rules", callback_data="_rules"
+                    "ʀᴜʟᴇs", callback_data="_rules"
                 ),
             InlineKeyboardButton
                 (
-                    "spam-Detect", callback_data="_spam"
+                    "sᴘᴀᴍ-ᴅᴇᴛᴇᴄᴛ", callback_data="_spam"
                 )   
         ],
         [
             InlineKeyboardButton
                 (
-                    "🔙Back", callback_data="bot_commands"
+                    "🔻ʙᴀᴄᴋ🔻", callback_data="bot_commands"
                 )
         ]
     ]
