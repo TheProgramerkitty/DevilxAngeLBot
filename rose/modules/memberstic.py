@@ -4,7 +4,7 @@ from rose import app,eor
 from rose.core.decorators.errors import capture_err
 from pyrogram import filters
 
-__MODULE__ = "Member Sticker"
+__MODULE__ = "ᴍᴇᴍʙᴇʀ sᴛɪᴄᴋᴇʀ"
 __HELP__ = """
 Automatically Thank Members of a Group With sticker 
 
