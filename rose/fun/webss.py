@@ -20,6 +20,6 @@ async def webss(_, message):
     await message.reply_photo(r.text, quote=True)
     await msg.delete()
 
-__MODULE__ = "WebSS"
+__MODULE__ = "ᴡᴇʙss"
 __HELP__ = " ×/web [URL] - Take A Screenshot Of A Webpage"
 __funtools__ = __HELP__
