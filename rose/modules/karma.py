@@ -11,7 +11,7 @@ from rose.utils.dbfunctions import (alpha_to_int, get_karma, get_karmas,
 from rose.utils.filter_groups import karma_negative_group, karma_positive_group
 from rose.utils.functions import get_user_id_and_usernames
 
-__MODULE__ = "Karma"
+__MODULE__ = "ᴋᴀʀᴍᴀ"
 __HELP__ = """
 [UPVOTE] - Use upvote keywords like "+", "+1", "thanks" etc to upvote a message.
 [DOWNVOTE] - Use downvote keywords like "-", "-1", etc to downvote a message.
