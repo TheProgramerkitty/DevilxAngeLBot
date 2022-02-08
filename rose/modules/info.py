@@ -116,7 +116,7 @@ async def chat_info_func(_, message: Message):
     except Exception as e:
         await m.edit(e)
         
-__MODULE__ = "Info"
+__MODULE__ = "ɪɴꜰᴏ"
 __HELP__ = """
    
 × /info - get user info
