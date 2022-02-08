@@ -1,5 +1,5 @@
 
-__MODULE__ = "carbon"
+__MODULE__ = "ᴄᴀʀʙᴏɴ"
 __HELP__ = """
 × /carbon : make carbon of any text
  """
