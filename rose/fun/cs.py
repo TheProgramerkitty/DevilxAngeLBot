@@ -1,5 +1,5 @@
 
-__MODULE__ = "Cricket Score"
+__MODULE__ = "ᴄʀɪᴄᴋᴇᴛ"
 __HELP__ = """
 MATCH INFO     
 × /cs - Gathers match information (globally)
