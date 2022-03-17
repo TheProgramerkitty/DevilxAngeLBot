@@ -141,10 +141,10 @@ start_button = InlineKeyboardMarkup(
         ],
         [
            InlineKeyboardButton(
-                text="sᴜᴘᴘᴏʀᴛ ", url="https://t.me/DevilAngelSupport"
+                text="sᴜᴘᴘᴏʀᴛ ", url="https://t.me/tgcalls_MusicXchat"
             ),
             InlineKeyboardButton(
-                text="ᴜᴘᴅᴀᴛᴇs", url="https://t.me/DeviLAngeLupdates"
+                text="ᴜᴘᴅᴀᴛᴇs", url="https://t.me/tgcalls_Music_update"
             ),
         ],
         [
